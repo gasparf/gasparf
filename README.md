@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me:
 
-# Contact Info:
+### Contact Info:
 
 <!--
 **gasparf/gasparf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
