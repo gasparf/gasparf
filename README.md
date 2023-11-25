@@ -1,9 +1,14 @@
-# Hi there 👋
+# Hello! 
 
 ## About Me:
+I am currently a 3rd year SFU Computer Engineering student with a Business Minor at the Beedie School of Business. 
+
+I have a great interest in software development and am a dedicated learning in all aspects of software development. I'm very interested in different & developing technologies, and am always looking to learn & improve my technical skills. I have participated in case competitions and various hackathons and am always looking for more opportunities to grow.
+
+I am also extremely passionate with sports like badminton and dragonboat in particular. I have competed in multiple large competitions and am a very hard-working individual.
 
 ### Contact Info:
-
+email: gaspar.tan1189@gmail.com
 <!--
 **gasparf/gasparf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
