@@ -1,7 +1,7 @@
 # Hello! 
 
 ## About Me:
-I am currently a 3rd year SFU Computer Engineering student with a Business Minor at the Beedie School of Business. 
+I am currently a 4th year SFU Computer Engineering student with a Business Minor at the Beedie School of Business. 
 
 I have a great interest in software development and am a dedicated learning in all aspects of software development. I'm very interested in different & developing technologies, and am always looking to learn & improve my technical skills. I have participated in case competitions and various hackathons and am always looking for more opportunities to grow.
 
